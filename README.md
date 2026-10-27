@@ -8,7 +8,8 @@ data products:
    engine that sites CMBs on real addresses and re-routes delivery from real depots.
 2. **Win back parcel customers.** A churn early-warning model that ranks business customers
    by revenue at risk, explains why each one is at risk, and recommends the retention action
-   with the best expected value. A parcel-demand map shows where the 2025 volume loss sits.
+   with the best expected value. The 79 million-piece (32.6%) drop in 2025 parcel volume is
+   allocated across FSAs by modelled parcel demand to set win-back sales targets.
 
 **Live dashboard:** https://claude.ai/artifact/J7girjpym3SAGt3zXGScmi
 
