@@ -1,0 +1,10 @@
+pandas>=3.0
+numpy>=2.5
+scipy>=1.18
+scikit-learn>=1.9
+plotly>=7.1
+networkx>=3.7
+geopandas>=1.2
+pyogrio>=0.13
+shapely>=2.2
+pyproj>=3.8
