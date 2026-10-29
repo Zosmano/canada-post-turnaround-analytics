@@ -11,7 +11,13 @@ data products:
    with the best expected value. The 79 million-piece (32.6%) drop in 2025 parcel volume is
    allocated across FSAs by modelled parcel demand to set win-back sales targets.
 
-**Live dashboard:** https://claude.ai/artifact/J7girjpym3SAGt3zXGScmi
+## 🚀 Live interactive dashboard
+
+Explore the full analysis in your browser: Q2 2026 position, delivery network map, route optimizer, churn early warning and win-back targets.
+
+[![Live dashboard](https://img.shields.io/badge/LIVE_DASHBOARD-Open_in_browser-D4603F?style=for-the-badge&labelColor=1E2350)](https://claude.ai/artifact/J7girjpym3SAGt3zXGScmi)
+[![Python](https://img.shields.io/badge/Python-pipeline-3B4A9C?style=for-the-badge&logo=python&logoColor=white&labelColor=1E2350)](#run-it)
+[![Dashboards](https://img.shields.io/badge/Report-6_dashboards-B98B36?style=for-the-badge&labelColor=1E2350)](#dashboards)
 
 Independent analysis, not produced by or affiliated with Canada Post.
 
