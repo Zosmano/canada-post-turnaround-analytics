@@ -72,7 +72,7 @@ The route model against the unit-cost model, national savings against the govern
 python -m pip install -r requirements.txt
 ```
 
-The input files are not in this repository (they are large, and the Canada Post data products are licensed). Put the files listed under **Inputs** in the repository root before running.
+The input files are not in this repository (they are large, and the Canada Post data products are owned by Canada Post and are not redistributed here). Put the files listed under **Inputs** in the repository root before running.
 
 ```bash
 python run_all.py
@@ -103,7 +103,7 @@ The zips are read in place and never modified.
 
 Not used: `hhe-householder-elite-data-samples.zip` (the same counts at postal-code level), and `PC_GEO.zip` and `pccf_may2020_sample.txt.zip` (samples of ~100 rows only).
 
-**About the Canada Post files:** the release is effective 2017-07-17. Door-to-door conversions were frozen from 2015 to 2025, so 2017 delivery modes are close to the network the 2026 program starts from. Check the licence terms of these files before sharing results built on them.
+**About the Canada Post files:** the release is effective 2017-07-17. Door-to-door conversions were frozen from 2015 to 2025, so 2017 delivery modes are close to the network the 2026 program starts from. Canada Post data products are owned by Canada Post and used here under its terms of use; they are not redistributed in this repository, which contains only code and aggregated results. Statistics Canada data is used under the [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada).
 
 ## How the data fits together
 
